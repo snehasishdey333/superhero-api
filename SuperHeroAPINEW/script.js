@@ -16,7 +16,7 @@ const powerDiv=document.getElementById("power");
 const combatDiv=document.getElementById("combat");
 
 const BASE_URL="https://www.superheroapi.com/api.php";
-const TOKEN="1222527351833922";
+const TOKEN="122252735183392223131";
 
 
 
